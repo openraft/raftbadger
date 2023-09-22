@@ -6,7 +6,7 @@
 package raftbadger_test
 
 import (
-	"github.com/sprintframework/raftbadger"
+	"github.com/sprintframework/raft-badger"
 	"github.com/dgraph-io/badger/v3"
 	"github.com/stretchr/testify/require"
 	"io/ioutil"

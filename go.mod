@@ -1,4 +1,4 @@
-module github.com/sprintframework/raftbadger
+module github.com/sprintframework/raft-badger
 
 go 1.17
 
